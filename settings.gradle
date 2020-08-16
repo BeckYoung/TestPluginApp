@@ -1,0 +1,3 @@
+include ':app', ':aidllibrary'
+project(':aidllibrary').projectDir = new File(rootDir, "../TestHostApp/aidllibrary")
+rootProject.name='TestPluginApp'

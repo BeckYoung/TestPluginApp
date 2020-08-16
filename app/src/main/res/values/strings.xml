@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestPluginApp</string>
+    <string name="app_first_title">Plugin App View</string>
+    <string name="app_first_btn_pictures">Glide View</string>
+</resources>
